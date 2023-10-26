@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import random
 # Set a fixed random seed
